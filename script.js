@@ -1,4 +1,4 @@
-console.log("hitesh")
+console.log("Mahesh Kushwaha")
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
 
